@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/eric-hs-qian/">
-  <img alt="Linkedin" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+  <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
 </a>
 <br></br>
 </p>
