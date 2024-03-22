@@ -5,9 +5,8 @@
   <img alt="Portfolio" title="Check out my portfolio page!" src="https://img.shields.io/badge/Portfolio-Click_here!-blue">
 </a>
 
-<a href="https://www.linkedin.com/in/eric-hs-qian/">
-  <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-hs-qian/)
+
 <br></br>
 </p>
 
